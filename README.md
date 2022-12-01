@@ -2,7 +2,7 @@
 
 ## Module 2 Challenge Assignment
 
-The challenge assignment for Module 2 is to . See below for additional context and success criteria provided.
+The challenge assignment for Module 2 is to create a professional portfolio site. See below for additional context and success criteria provided.
 
 ### Success Criteria
 
