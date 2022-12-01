@@ -36,4 +36,4 @@ The following link takes you to the deployed application: https://nugemeister.gi
 
 The following image shows the web application's appearance and functionality:
 
-![This is a screenshot of the live webpage.](PLACEHOLDER)
+![This is a screenshot of the live webpage.](./assets/images/screenshot.jpeg)
